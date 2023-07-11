@@ -1,0 +1,85 @@
+
+
+Enable charging schedule intents:
+
+I_want_to enable my charging schedule                
+
+enable my battery schedule with pin 1111
+
+enable the battery schedule using nip 1111
+
+enable all battery charging schedules
+
+enable charging scheduler 1
+
+enable charging schedule with pin 1111
+
+enable 1 battery schedules
+
+
+
+
+Disable charging schedule intents:
+
+I_want_to disable charging schedule
+
+I_want_to disable my battery charging schedule
+
+I_want_to disable 1 the battery schedules
+
+disable my charging schedule with nip 1111
+
+disable the charging schedule using nip 1111
+
+disable battery schedule number 1
+
+disable 2 battery schedules
+
+
+
+
+Enable climate schedule intents:
+
+
+I_want_to enable climate schedule number 2 with nip 1111
+
+enable my climate schedule
+
+enable the climate schedule number 3 with pin 1111
+
+enable my climate schedule number 3 using nip 1111
+
+enable climate schedule number 4 for the Demo using nip 1111
+
+enable the climate schedule for my Demo
+
+climate schedule enable
+
+
+
+
+Disable climate schedule intents:
+
+
+I_want_to disable my climate schedule number 2 using pin 1111
+
+I_want_to disable my climate schedule
+
+disable climate schedule number 3 with pin 1111
+
+disable climate schedule number 4 for the Demo using pin 1111
+
+disable my climate schedule number 1 for the Demo with pin 1111
+
+disable climate schedule for the Demo
+
+disable all climate schedules
+
+disable climate schedule
+
+
+
+
+
+
+
